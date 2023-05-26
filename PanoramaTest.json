@@ -1,19 +1,19 @@
-{
-    "ambiance": [
-        {
-            "name": "Piece1",
-            "song": "https://threejs.org/examples/sounds/376737_Skullbeatz___Bad_Cat_Maste.ogg",
-            "loop": true
-          },
-        {
-            "name": "Piece2",
-            "song": "https://threejs.org/examples/sounds/358232_j_s_song.ogg",
-            "loop": true
-          }
-    ],
+{ 
     "imageMap": [
         "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg.jpg",
         "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B1.jpg"
+    ],
+    "ambiance": [
+        {
+          "name": "Piece1",
+          "song": "https://threejs.org/examples/sounds/376737_Skullbeatz___Bad_Cat_Maste.ogg",
+          "loop": true
+        },
+        {
+          "name": "Piece2",
+          "song": "https://threejs.org/examples/sounds/358232_j_s_song.ogg",
+          "loop": true
+         }
     ],
     "chapters": [
       {
