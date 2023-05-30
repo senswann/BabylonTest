@@ -91,7 +91,31 @@
         "autoActivate": false
       },
       {
-        "type": "PUB",
+        "type": "text",
+        "piece": 0,
+        "position": 1,
+        "pos_x": 1,
+        "pos_y": 1,
+        "pos_z": 3,
+        "text": "Test",
+        "link": null,
+        "size": 0.5,
+        "autoActivate": false
+      },
+      {
+        "type": "image",
+        "piece": 0,
+        "position": 1,
+        "pos_x": -1,
+        "pos_y": -1,
+        "pos_z": -3,
+        "text": null,
+        "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B1.jpg",
+        "size": 0.5,
+        "autoActivate": true
+      },
+      {
+        "type": "object",
         "piece": 0,
         "position": 0,
         "pos_x": null,
@@ -99,6 +123,66 @@
         "pos_z": null,
         "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/banner1.png",
         "link": "https://www.google.fr/",
+        "size": 0.5,
+        "autoActivate": false
+      },
+      {
+        "type": "object",
+        "piece": 0,
+        "position": 1,
+        "pos_x": 2,
+        "pos_y": 0,
+        "pos_z": 3,
+        "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/container.jpg",
+        "link": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/untitled.obj",
+        "size": 0.5,
+        "autoActivate": false
+      },
+      {
+        "type": "video",
+        "piece": 0,
+        "position": 1,
+        "pos_x": -2,
+        "pos_y": 1,
+        "pos_z": 3,
+        "text": null,
+        "link": "https://vod-masters-nustaging.s3.eu-central-1.amazonaws.com/public/video_accueil/accueil.mp4",
+        "size": 0.5,
+        "autoActivate": false
+      },
+      {
+        "type": "market",
+        "piece": 0,
+        "position": 1,
+        "pos_x": 2,
+        "pos_y": 1,
+        "pos_z": -3,
+        "text": null,
+        "link": "https://mytourlive.co/",
+        "size": 0.5,
+        "autoActivate": false
+      },
+      {
+        "type": "document",
+        "piece": 0,
+        "position": 2,
+        "pos_x": -1,
+        "pos_y": -1,
+        "pos_z": 3,
+        "text": "Test",
+        "link": "null",
+        "size": 0.5,
+        "autoActivate": false
+      },
+      {
+        "type": "PUB",
+        "piece": 0,
+        "position": 2,
+        "pos_x": null,
+        "pos_y": null,
+        "pos_z": null,
+        "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/banner2.png",
+        "link": "https://mytourlive.co/",
         "size": 0.5,
         "autoActivate": false
       }
