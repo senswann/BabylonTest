@@ -129,18 +129,6 @@
       {
         "type": "object",
         "piece": 0,
-        "position": 0,
-        "pos_x": null,
-        "pos_y": null,
-        "pos_z": null,
-        "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/banner1.png",
-        "link": "https://www.google.fr/",
-        "size": 0.5,
-        "autoActivate": false
-      },
-      {
-        "type": "object",
-        "piece": 0,
         "position": 1,
         "pos_x": 2,
         "pos_y": 0,
