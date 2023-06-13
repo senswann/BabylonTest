@@ -210,6 +210,24 @@
         "link": "https://vod-masters-nustaging.s3.eu-central-1.amazonaws.com/public/video_accueil/accueil.mp4"
       }
     ],
+    "tpSpatial": [
+      {
+        "chapitrePosition": 0,
+        "pos_x": 1,
+        "pos_y": -1,
+        "pos_z": -3,
+        "piece": 0,
+        "position": 1
+      },
+      {
+        "chapitrePosition": 0,
+        "pos_x": -1,
+        "pos_y": 1,
+        "pos_z": 3,
+        "piece": 0,
+        "position": 3
+      }
+    ]
     "pieces": [
       {
         "piece": 0,
