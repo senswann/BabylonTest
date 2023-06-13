@@ -203,11 +203,11 @@
         "link": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/untitled.obj"
       },
     {
-        "type": "audio",
+        "type": "video",
         "piece": 0,
         "position": 2,
-        "text": "ShortSound",
-        "link": "https://threejs.org/examples/sounds/358232_j_s_song.ogg"
+        "text": null,
+        "link": "https://vod-masters-nustaging.s3.eu-central-1.amazonaws.com/public/video_accueil/accueil.mp4"
       }
     ],
     "pieces": [
