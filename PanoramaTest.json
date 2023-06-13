@@ -187,6 +187,29 @@
         "autoActivate": false
       }
     ],
+    "telecommand": [
+      {
+        "type": "text",
+        "piece": 0,
+        "position": 0,
+        "text": "Bonjour tres chere, je suis un boutton qui vous pemettras d'écrire autant de text que vous voudrais.",
+        "link": null
+      },
+        {
+        "type": "object",
+        "piece": 0,
+        "position": 1,
+        "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/container.jpg",
+        "link": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/untitled.obj"
+      },
+    {
+        "type": "audio",
+        "piece": 0,
+        "position": 2,
+        "text": "ShortSound",
+        "link": "https://threejs.org/examples/sounds/358232_j_s_song.ogg"
+      }
+    ],
     "pieces": [
       {
         "piece": 0,
