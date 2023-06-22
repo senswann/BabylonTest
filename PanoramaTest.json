@@ -658,6 +658,13 @@
             "pos_z": 0,
             "piece": 1,
             "position": 1
+          },
+            {
+            "pos_x": -3,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 0,
+            "position": 4
           }
         ]
       },
@@ -703,6 +710,13 @@
             "pos_z": 0,
             "piece": 1,
             "position": 1
+          },
+            {
+            "pos_x": -5,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 0,
+            "position": 4
           }
         ]
       }
