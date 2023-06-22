@@ -643,6 +643,22 @@
                 "piece": null,
                 "index": null
             }
+        ],
+        "tpSpatial": [
+          {
+            "pos_x": 0,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 1,
+            "position": 0
+          },
+          {
+            "pos_x": 5,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 1,
+            "position": 1
+          }
         ]
       },
       {
@@ -672,6 +688,22 @@
                 "piece": null,
                 "index": null
             }
+        ],
+        "tpSpatial": [
+          {
+            "pos_x": -3,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 1,
+            "position": 0
+          },
+          {
+            "pos_x": 0,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 1,
+            "position": 1
+          }
         ]
       }
     ]
