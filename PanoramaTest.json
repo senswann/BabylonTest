@@ -5,12 +5,10 @@
     ],
     "ambiance": [
         {
-          "name": "Piece1",
           "song": "https://threejs.org/examples/sounds/376737_Skullbeatz___Bad_Cat_Maste.ogg",
           "loop": true
         },
         {
-          "name": "Piece2",
           "song": "https://threejs.org/examples/sounds/358232_j_s_song.ogg",
           "loop": true
          }
