@@ -842,6 +842,78 @@
                 "piece": null,
                 "index": null
             }
+        ],
+        "tpSpatial": [
+          {
+            "pos_x": -10,
+            "pos_y": -3,
+            "pos_z": 1,
+            "piece": 0,
+            "position": 0
+          },
+          {
+            "pos_x": -8.5,
+            "pos_y": -3,
+            "pos_z": 0.5,
+            "piece": 0,
+            "position": 1
+          },
+          {
+            "pos_x": -7,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 0,
+            "position": 2
+          },
+            {
+            "pos_x": -4.5,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 0,
+            "position": 3
+          },
+            {
+            "pos_x": -3,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 0,
+            "position": 4
+          },
+            {
+            "pos_x": -2,
+            "pos_y": -3,
+            "pos_z": -1,
+            "piece": 0,
+            "position": 5
+          },
+            {
+            "pos_x": 0,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 0,
+            "position": 6
+          },
+            {
+            "pos_x": 3,
+            "pos_y": -3,
+            "pos_z": 0,
+            "piece": 0,
+            "position": 7
+          },
+            {
+            "pos_x": 5.5,
+            "pos_y": -3,
+            "pos_z": -2,
+            "piece": 0,
+            "position": 8
+          },
+          {
+            "pos_x": -7,
+            "pos_y": -3,
+            "pos_z": -1,
+            "piece": 1,
+            "position": 0
+          }
         ]
       },
       {
