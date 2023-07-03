@@ -59,7 +59,7 @@
         "pos_x": -1,
         "pos_y": 1,
         "pos_z": -3,
-        "text": null,
+        "text": "ceci est la 1er zone",
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg",
         "size": 0.5,
         "autoActivate": false
@@ -119,7 +119,7 @@
         "pos_x": -1,
         "pos_y": -1,
         "pos_z": -3,
-        "text": null,
+        "text": "ceci est la 2e zone",
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B1.jpg",
         "size": 0.5,
         "autoActivate": true
