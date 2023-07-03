@@ -37,6 +37,7 @@
         "pos_z": -3,
         "text": "ShortSound",
         "link": "https://threejs.org/examples/sounds/358232_j_s_song.ogg",
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       },
@@ -49,6 +50,7 @@
         "pos_z": 3,
         "text": "Bonjour tres chere, je suis un boutton qui vous pemettras d'écrire autant de text que vous voudrais.",
         "link": null,
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       },
@@ -61,6 +63,7 @@
         "pos_z": -3,
         "text": "ceci est la 1er zone",
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg",
+        "copyright": "je suis un copyright",
         "size": 0.5,
         "autoActivate": false
       },
@@ -73,6 +76,7 @@
         "pos_z": 3,
         "text": null,
         "link": "https://www.google.fr/",
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       },
@@ -85,6 +89,7 @@
         "pos_z": -3,
         "text": null,
         "link": "box",
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       },
@@ -97,6 +102,7 @@
         "pos_z": null,
         "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/banner1.png",
         "link": "https://www.google.fr/",
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       },
@@ -109,6 +115,7 @@
         "pos_z": 3,
         "text": "Test",
         "link": null,
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       },
@@ -121,6 +128,7 @@
         "pos_z": -3,
         "text": "ceci est la 2e zone",
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B1.jpg",
+        "copyright": "je suis un autre copyright",
         "size": 0.5,
         "autoActivate": true
       },
@@ -133,6 +141,7 @@
         "pos_z": 3,
         "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/container.jpg",
         "link": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/untitled.obj",
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       },
@@ -145,6 +154,7 @@
         "pos_z": 3,
         "text": null,
         "link": "https://vod-masters-nustaging.s3.eu-central-1.amazonaws.com/public/video_accueil/accueil.mp4",
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       },
@@ -157,6 +167,7 @@
         "pos_z": -3,
         "text": null,
         "link": "https://mytourlive.co/",
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       },
@@ -169,6 +180,7 @@
         "pos_z": 3,
         "text": "Test",
         "link": "null",
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       },
@@ -181,6 +193,7 @@
         "pos_z": null,
         "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/banner2.png",
         "link": "https://mytourlive.co/",
+        "copyright": null,
         "size": 0.5,
         "autoActivate": false
       }
@@ -191,21 +204,24 @@
         "piece": 0,
         "position": 0,
         "text": "Bonjour tres chere, je suis un boutton qui vous pemettras d'écrire autant de text que vous voudrais.",
-        "link": null
+        "link": null,
+        "copyright": null
       },
       {
         "type": "object",
         "piece": 0,
         "position": 1,
         "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/container.jpg",
-        "link": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/untitled.obj"
+        "link": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/untitled.obj",
+        "copyright": null
       },
       {
         "type": "video",
         "piece": 0,
         "position": 2,
         "text": null,
-        "link": "https://vod-masters-nustaging.s3.eu-central-1.amazonaws.com/public/video_accueil/accueil.mp4"
+        "link": "https://vod-masters-nustaging.s3.eu-central-1.amazonaws.com/public/video_accueil/accueil.mp4",
+        "copyright": null
       }
     ],
     "pieces": [
