@@ -211,8 +211,8 @@
         "type": "object",
         "piece": 0,
         "position": 1,
-        "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/container.jpg",
-        "link": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/untitled.obj",
+        "text": null,
+        "link": "box",
         "copyright": null
       },
       {
