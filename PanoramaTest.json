@@ -229,6 +229,7 @@
         "piece": 0,
         "position": 0,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg",
+        "cameraLook": null,
         "forward": [
             {
                 "piece": 0,
