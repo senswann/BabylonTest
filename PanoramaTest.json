@@ -331,6 +331,7 @@
         "piece": 0,
         "position": 1,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A2.jpg",
+        "cameraLook": null,
         "forward": [
             {
                 "piece": 0,
@@ -432,6 +433,7 @@
         "piece": 0,
         "position": 2,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A3.jpg",
+        "cameraLook": null,
         "forward": [
             {
                 "piece": 0,
@@ -533,6 +535,7 @@
         "piece": 0,
         "position": 3,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A4.jpg",
+        "cameraLook": null,
         "forward": [
             {
                 "piece": 0,
@@ -634,6 +637,7 @@
         "piece": 0,
         "position": 4,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A5.jpg",
+        "cameraLook": null,
         "forward": [
             {
                 "piece": 0,
@@ -735,6 +739,7 @@
         "piece": 0,
         "position": 5,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A6.jpg",
+        "cameraLook": null,
         "forward": [
             {
                 "piece": 0,
@@ -835,6 +840,7 @@
       {
         "piece": 0,
         "position": 6,
+        "cameraLook": null,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A7.jpg",
         "forward": [
             {
@@ -937,6 +943,7 @@
         "piece": 0,
         "position": 7,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A8.jpg",
+        "cameraLook": null,
         "forward": [
             {
                 "piece": 0,
@@ -1038,6 +1045,7 @@
         "piece": 0,
         "position": 8,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A9.jpg",
+        "cameraLook": 1.43,
         "forward": [
             {
                 "piece": null,
@@ -1139,6 +1147,7 @@
         "piece": 1,
         "position": 0,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B1.jpg",
+        "cameraLook": null,
         "forward": [
             {
                 "piece": 1,
@@ -1191,6 +1200,7 @@
         "piece": 1,
         "position": 1,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B2.jpg",
+        "cameraLook": 3.5,
         "forward": [
             {
                 "piece": null,
