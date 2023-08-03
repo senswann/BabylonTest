@@ -15,16 +15,14 @@
     ],
     "chapters": [
       {
-        "pieces": [
-          {
+        {
             "title": "entrée",
             "imgUrl": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg"
-          },
-          {
+        },
+        {
             "title": "toilette",
             "imgUrl": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B1.jpg"
-          }
-        ]
+        }
       }
     ],
     "infospot": [
