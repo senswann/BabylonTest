@@ -11,10 +11,12 @@
     ],
     "ambiance": [
         {
+            "piece": 0,
             "song": "https://threejs.org/examples/sounds/376737_Skullbeatz___Bad_Cat_Maste.ogg",
             "loop": true
         },
         {
+            "piece": 1,
             "song": "https://threejs.org/examples/sounds/358232_j_s_song.ogg",
             "loop": true
         }
