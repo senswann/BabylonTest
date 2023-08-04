@@ -1,7 +1,13 @@
 { 
     "imageMap": [
-        "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg",
-        "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B1.jpg"
+        {
+            "piece": 0,
+            "imgUrl": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg"
+        },
+        {
+            "piece": 1,
+            "imgUrl": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B1.jpg"
+        }
     ],
     "ambiance": [
         {
