@@ -315,70 +315,80 @@
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": 2,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 0,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
           {
             "pos_x": 3,
             "pos_y": -3,
             "pos_z":-1,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "sol"
           },
           {
             "pos_x": 6,
             "pos_y": -3,
             "pos_z": -2,
             "piece": 0,
-            "position": 3
+            "position": 3,
+            "type": "sol"
           },
           {
             "pos_x": 8,
             "pos_y": -3,
             "pos_z": -2,
             "piece": 0,
-            "position": 4
+            "position": 4,
+            "type": "sol"
           },
           {
             "pos_x": 10,
             "pos_y": -3,
             "pos_z": -3,
             "piece": 0,
-            "position": 5
+            "position": 5,
+            "type": "sol"
           },
           {
             "pos_x": 12,
             "pos_y": -3,
             "pos_z": -3,
             "piece": 0,
-            "position": 6
+            "position": 6,
+            "type": "sol"
           },
           {
             "pos_x": 14,
             "pos_y": -3,
             "pos_z": -3,
             "piece": 0,
-            "position": 7
+            "position": 7,
+            "type": "sol"
           },
           {
             "pos_x": 16,
             "pos_y": -3,
             "pos_z": -6,
             "piece": 0,
-            "position": 8
+            "position": 8,
+            "type": "air"
           },
           {
             "pos_x": 3,
             "pos_y": -3,
             "pos_z": -3,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "next"
           }
         ]
       },
@@ -393,70 +403,80 @@
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
           {
             "pos_x": 2,
             "pos_y": -3,
             "pos_z":-1,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "sol"
           },
           {
             "pos_x": 4,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 0,
-            "position": 3
+            "position": 3,
+            "type": "sol"
           },
           {
             "pos_x": 7,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 4
+            "position": 4,
+            "type": "sol"
           },
           {
             "pos_x": 9,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 5
+            "position": 5,
+            "type": "sol"
           },
           {
             "pos_x": 11,
             "pos_y": -3,
             "pos_z": 2,
             "piece": 0,
-            "position": 6
+            "position": 6,
+            "type": "sol"
           },
           {
             "pos_x": 13,
             "pos_y": -3,
             "pos_z": 2,
             "piece": 0,
-            "position": 7
+            "position": 7,
+            "type": "sol"
           },
           {
             "pos_x": 15,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 8
+            "position": 8,
+            "type": "air"
           },
           {
             "pos_x": 3,
             "pos_y": -3,
             "pos_z": -2,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "next"
           }
         ]
       },
@@ -471,70 +491,80 @@
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": -3,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "sol"
           },
           {
             "pos_x": 3,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 3
+            "position": 3,
+            "type": "sol"
           },
           {
             "pos_x": 6,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 4
+            "position": 4,
+            "type": "sol"
           },
           {
             "pos_x": 8,
             "pos_y": -3,
             "pos_z": 2,
             "piece": 0,
-            "position": 5
+            "position": 5,
+            "type": "sol"
           },
           {
             "pos_x": 10,
             "pos_y": -3,
             "pos_z": 3,
             "piece": 0,
-            "position": 6
+            "position": 6,
+            "type": "sol"
           },
           {
             "pos_x": 12,
             "pos_y": -3,
             "pos_z": 3,
             "piece": 0,
-            "position": 7
+            "position": 7,
+            "type": "sol"
           },
           {
             "pos_x": 14,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 8
+            "position": 8,
+            "type": "air"
           },
           {
             "pos_x": 1,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "next"
           }
         ]
       },
@@ -549,70 +579,80 @@
             "pos_y": -3,
             "pos_z": 2,
             "piece": 0,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": -4,
             "pos_y": -3,
             "pos_z": 1.5,
             "piece": 0,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
           {
             "pos_x": -2,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 3
+            "position": 3,
+            "type": "sol"
           },
           {
             "pos_x": 3,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 0,
-            "position": 4
+            "position": 4,
+            "type": "sol"
           },
           {
             "pos_x": 5,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 5
+            "position": 5,
+            "type": "sol"
           },
           {
             "pos_x": 7,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 6
+            "position": 6,
+            "type": "sol"
           },
           {
             "pos_x": 10,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 7
+            "position": 7,
+            "type": "sol"
           },
           {
             "pos_x": 12,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 0,
-            "position": 8
+            "position": 8,
+            "type": "air"
           },
           {
             "pos_x": -1,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "next"
           }
         ]
       },
@@ -627,70 +667,80 @@
             "pos_y": -3,
             "pos_z": 1.5,
             "piece": 0,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": -6,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
           {
             "pos_x": -4,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "sol"
           },
           {
             "pos_x": -2,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 3
+            "position": 3,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 4
+            "position": 4,
+            "type": "sol"
           },
           {
             "pos_x": 3,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 5
+            "position": 5,
+            "type": "sol"
           },
           {
             "pos_x": 5,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 6
+            "position": 6,
+            "type": "sol"
           },
           {
             "pos_x": 8,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 7
+            "position": 7,
+            "type": "sol"
           },
           {
             "pos_x": 10,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 0,
-            "position": 8
+            "position": 8,
+            "type": "air"
           },
           {
             "pos_x": -3,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "next"
           }
         ]
       },
@@ -705,70 +755,80 @@
             "pos_y": -3,
             "pos_z": 2,
             "piece": 0,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": -7.5,
             "pos_y": -3,
             "pos_z": 1.5,
             "piece": 0,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
           {
             "pos_x": -6,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "sol"
           },
             {
             "pos_x": -4,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 3
+            "position": 3,
+            "type": "sol"
           },
             {
             "pos_x": -2,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 4
+            "position": 4,
+            "type": "sol"
           },
             {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 5
+            "position": 5,
+            "type": "sol"
           },
             {
             "pos_x": 2,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 6
+            "position": 6,
+            "type": "sol"
           },
             {
             "pos_x": 5,
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 7
+            "position": 7,
+            "type": "sol"
           },
             {
             "pos_x": 7,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 0,
-            "position": 8
+            "position": 8,
+            "type": "air"
           },
           {
             "pos_x": -6,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "next"
           }
         ]
       },
@@ -783,70 +843,80 @@
             "pos_y": -3,
             "pos_z": 1,
             "piece": 0,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": -8.5,
             "pos_y": -3,
             "pos_z": 0.5,
             "piece": 0,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
           {
             "pos_x": -7,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "sol"
           },
             {
             "pos_x": -4.5,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 3
+            "position": 3,
+            "type": "sol"
           },
             {
             "pos_x": -3,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 4
+            "position": 4,
+            "type": "sol"
           },
             {
             "pos_x": -2,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 0,
-            "position": 5
+            "position": 5,
+            "type": "sol"
           },
             {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 6
+            "position": 6,
+            "type": "sol"
           },
             {
             "pos_x": 3,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 7
+            "position": 7,
+            "type": "sol"
           },
             {
             "pos_x": 5.5,
             "pos_y": -3,
             "pos_z": -2,
             "piece": 0,
-            "position": 8
+            "position": 8,
+            "type": "air"
           },
           {
             "pos_x": -7,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "next"
           }
         ]
       },
@@ -861,70 +931,80 @@
             "pos_y": -3,
             "pos_z": -4,
             "piece": 0,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": -10,
             "pos_y": -3,
             "pos_z": -4.5,
             "piece": 0,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
           {
             "pos_x": -8.5,
             "pos_y": -3,
             "pos_z": -4,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "sol"
           },
             {
             "pos_x": -6.5,
             "pos_y": -3,
             "pos_z": -3.5,
             "piece": 0,
-            "position": 3
+            "position": 3,
+            "type": "sol"
           },
             {
             "pos_x": -5,
             "pos_y": -3,
             "pos_z": -3,
             "piece": 0,
-            "position": 4
+            "position": 4,
+            "type": "sol"
           },
             {
             "pos_x": -3,
             "pos_y": -3,
             "pos_z": -2.5,
             "piece": 0,
-            "position": 5
+            "position": 5,
+            "type": "sol"
           },
             {
             "pos_x": -1.5,
             "pos_y": -3,
             "pos_z": -1.5,
             "piece": 0,
-            "position": 6
+            "position": 6,
+            "type": "sol"
           },
             {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 7
+            "position": 7,
+            "type": "sol"
           },
             {
             "pos_x": 3.5,
             "pos_y": -3,
             "pos_z": -1,
             "piece": 0,
-            "position": 8
+            "position": 8,
+            "type": "air"
           },
           {
             "pos_x": -7,
             "pos_y": -3,
             "pos_z": -5,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "next"
           }
         ]
       },
@@ -939,70 +1019,80 @@
             "pos_y": -3,
             "pos_z": -3,
             "piece": 0,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 3
+            "position": 3,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 4
+            "position": 4,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 5
+            "position": 5,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 6
+            "position": 6,
+            "type": "sol"
           },
           {
             "pos_x": -3,
             "pos_y": -3,
             "pos_z": 2,
             "piece": 0,
-            "position": 7
+            "position": 7,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 8
+            "position": 8,
+            "type": "air"
           },
           {
             "pos_x": -11.5,
             "pos_y": -3,
             "pos_z": -4,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "next"
           }
         ]
       },
@@ -1017,21 +1107,24 @@
             "pos_y": -3,
             "pos_z": 0,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": 5,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 1,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
             {
             "pos_x": -3,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "next"
           }
         ]
       },
@@ -1046,21 +1139,24 @@
             "pos_y": -3,
             "pos_z": 0,
             "piece": 1,
-            "position": 0
+            "position": 0,
+            "type": "sol"
           },
           {
             "pos_x": 0,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 1,
-            "position": 1
+            "position": 1,
+            "type": "sol"
           },
             {
             "pos_x": -5,
             "pos_y": -3,
             "pos_z": 0,
             "piece": 0,
-            "position": 2
+            "position": 2,
+            "type": "next"
           }
         ]
       }
