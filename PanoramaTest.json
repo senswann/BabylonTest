@@ -33,6 +33,7 @@
     ],
     "infospot": [
       {
+        "isInfospot": true,
         "type": "audio",
         "piece": 0,
         "position": 0,
@@ -47,6 +48,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "text",
         "piece": 0,
         "position": 0,
@@ -61,6 +63,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "image",
         "piece": 0,
         "position": 0,
@@ -75,6 +78,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "link",
         "piece": 0,
         "position": 0,
@@ -89,6 +93,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "object",
         "piece": 0,
         "position": 0,
@@ -103,6 +108,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "PUB",
         "piece": 0,
         "position": 0,
@@ -117,6 +123,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "text",
         "piece": 0,
         "position": 1,
@@ -131,6 +138,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "image",
         "piece": 0,
         "position": 1,
@@ -145,6 +153,7 @@
         "autoActivate": true
       },
       {
+        "isInfospot": true,
         "type": "object",
         "piece": 0,
         "position": 1,
@@ -159,6 +168,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "video",
         "piece": 0,
         "position": 1,
@@ -173,6 +183,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "market",
         "piece": 0,
         "position": 1,
@@ -187,6 +198,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "document",
         "piece": 0,
         "position": 2,
@@ -201,6 +213,7 @@
         "autoActivate": false
       },
       {
+        "isInfospot": true,
         "type": "PUB",
         "piece": 0,
         "position": 2,
@@ -213,35 +226,51 @@
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
-      }
-    ],
-    "telecommand": [
+      },
       {
+        "isInfospot": false,
         "type": "text",
         "piece": 0,
         "position": 0,
+        "pos_x": null,
+        "pos_y": null,
+        "pos_z": null,
         "text": "bonjours, je suis un info alternatif",
         "textInfo": null,
         "link": null,
-        "copyright": null
+        "copyright": null,
+        "size": null,
+        "autoActivate": null
       },
       {
+        "isInfospot": false,
         "type": "object",
         "piece": 0,
         "position": 1,
+        "pos_x": null,
+        "pos_y": null,
+        "pos_z": null,
         "text": null,
         "textInfo": null,
         "link": "box",
-        "copyright": null
+        "copyright": null,
+        "size": null,
+        "autoActivate": null
       },
       {
+        "isInfospot": false,
         "type": "video",
         "piece": 0,
         "position": 2,
+        "pos_x": null,
+        "pos_y": null,
+        "pos_z": null,
         "text": null,
         "textInfo": null,
         "link": "https://vod-masters-nustaging.s3.eu-central-1.amazonaws.com/public/video_accueil/accueil.mp4",
-        "copyright": null
+        "copyright": null,
+        "size": null,
+        "autoActivate": null
       }
     ],
     "pieces": [
