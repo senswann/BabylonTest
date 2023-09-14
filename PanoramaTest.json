@@ -43,6 +43,7 @@
         "text": "ShortSound",
         "textInfo": null,
         "link": "https://threejs.org/examples/sounds/358232_j_s_song.ogg",
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -58,6 +59,7 @@
         "text": "Bonjour tres chere, je suis un boutton qui vous pemettras d'écrire autant de text que vous voudrais.",
         "textInfo": null,
         "link": null,
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -73,6 +75,7 @@
         "text": "ceci est la 1er zone",
         "textInfo": "Etiam volutpat arcu eu urna semper, eu bibendum quam mattis. Sed vel elit libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce eu diam odio. Suspendisse potenti. Nullam nec cursus libero. Sed ut nunc sem.",
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg",
+        "texture": null,
         "copyright": "je suis un copyright",
         "size": 0.5,
         "autoActivate": false
@@ -88,6 +91,7 @@
         "text": null,
         "textInfo": null,
         "link": "https://www.google.fr/",
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -103,6 +107,7 @@
         "text": null,
         "textInfo": null,
         "link": "box",
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -118,6 +123,7 @@
         "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/banner1.png",
         "textInfo": null,
         "link": "https://www.google.fr/",
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -133,6 +139,7 @@
         "text": "Test",
         "textInfo": null,
         "link": null,
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -148,6 +155,7 @@
         "text": "ceci est la 2e zone",
         "textInfo": null,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B1.jpg",
+        "texture": null,
         "copyright": "je suis un autre copyright",
         "size": 0.5,
         "autoActivate": true
@@ -160,9 +168,10 @@
         "pos_x": 2,
         "pos_y": 0,
         "pos_z": 3,
-        "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/container.jpg",
+        "text": null,
         "textInfo": null,
         "link": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/untitled.obj",
+        "texture": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/container.jpg",
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -178,6 +187,7 @@
         "text": null,
         "textInfo": null,
         "link": "https://vod-masters-nustaging.s3.eu-central-1.amazonaws.com/public/video_accueil/accueil.mp4",
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -193,6 +203,7 @@
         "text": null,
         "textInfo": null,
         "link": "https://mytourlive.co/",
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -208,6 +219,7 @@
         "text": "Test",
         "textInfo": null,
         "link": "null",
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -223,6 +235,7 @@
         "text": "https://cdn.jsdelivr.net/gh/senswann/BabylonTest@master/ImageTest/banner2.png",
         "textInfo": null,
         "link": "https://mytourlive.co/",
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -238,6 +251,7 @@
         "text": "bonjours, je suis un info alternatif",
         "textInfo": null,
         "link": null,
+        "texture": null,
         "copyright": null,
         "size": null,
         "autoActivate": null
@@ -253,6 +267,7 @@
         "text": null,
         "textInfo": null,
         "link": "box",
+        "texture": null,
         "copyright": null,
         "size": null,
         "autoActivate": null
@@ -268,6 +283,7 @@
         "text": null,
         "textInfo": null,
         "link": "https://vod-masters-nustaging.s3.eu-central-1.amazonaws.com/public/video_accueil/accueil.mp4",
+        "texture": null,
         "copyright": null,
         "size": null,
         "autoActivate": null
@@ -283,6 +299,7 @@
         "text": null,
         "textInfo": null,
         "link": "https://www.google.fr/maps/place/Basilique+Notre-Dame+de+la+Garde/@43.2799626,5.363724,13z/data=!4m6!3m5!1s0x12c9c0c976b89df5:0x89254f95b5ee2ded!8m2!3d43.2839533!4d5.3712377!16zL20vMDFfcThj?entry=ttu",
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
@@ -298,6 +315,7 @@
         "text": null,
         "textInfo": null,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg",
+        "texture": null,
         "copyright": null,
         "size": 0.5,
         "autoActivate": false
