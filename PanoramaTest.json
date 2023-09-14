@@ -250,30 +250,6 @@
         "position": 0,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg",
         "cameraLook": null,
-        "forward": [
-            {
-                "piece": 0,
-                "index": 1
-            }
-        ],
-        "down": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": 0,
@@ -352,30 +328,6 @@
         "position": 1,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A2.jpg",
         "cameraLook": null,
-        "forward": [
-            {
-                "piece": 0,
-                "index": 2
-            }
-        ],
-        "down": [
-            {
-                "piece": 0,
-                "index": 0
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": -3,
@@ -454,30 +406,6 @@
         "position": 2,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A3.jpg",
         "cameraLook": null,
-        "forward": [
-            {
-                "piece": 0,
-                "index": 3
-            }
-        ],
-        "down": [
-            {
-                "piece": 0,
-                "index": 1
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": 1,
-                "index": 0
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": -5,
@@ -556,30 +484,6 @@
         "position": 3,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A4.jpg",
         "cameraLook": null,
-        "forward": [
-            {
-                "piece": 0,
-                "index": 4
-            }
-        ],
-        "down": [
-            {
-                "piece": 0,
-                "index": 2
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": 1,
-                "index": 0
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": -6,
@@ -658,30 +562,6 @@
         "position": 4,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A5.jpg",
         "cameraLook": null,
-        "forward": [
-            {
-                "piece": 0,
-                "index": 5
-            }
-        ],
-        "down": [
-            {
-                "piece": 0,
-                "index": 3
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": -8,
@@ -760,30 +640,6 @@
         "position": 5,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A6.jpg",
         "cameraLook": null,
-        "forward": [
-            {
-                "piece": 0,
-                "index": 6
-            }
-        ],
-        "down": [
-            {
-                "piece": 0,
-                "index": 4
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": -9,
@@ -862,30 +718,6 @@
         "position": 6,
         "cameraLook": null,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A7.jpg",
-        "forward": [
-            {
-                "piece": 0,
-                "index": 7
-            }
-        ],
-        "down": [
-            {
-                "piece": 0,
-                "index": 5
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": -10,
@@ -964,30 +796,6 @@
         "position": 7,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A8.jpg",
         "cameraLook": null,
-        "forward": [
-            {
-                "piece": 0,
-                "index": 8
-            }
-        ],
-        "down": [
-            {
-                "piece": 0,
-                "index": 6
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": -11.5,
@@ -1066,30 +874,6 @@
         "position": 8,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A9.jpg",
         "cameraLook": "2/1.7",
-        "forward": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "down": [
-            {
-                "piece": 0,
-                "index": 7
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": -13.5,
@@ -1168,30 +952,6 @@
         "position": 0,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B1.jpg",
         "cameraLook": null,
-        "forward": [
-            {
-                "piece": 1,
-                "index": 1
-            }
-        ],
-        "down": [
-            {
-                "piece": 0,
-                "index": 2
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": 0,
@@ -1221,30 +981,6 @@
         "position": 1,
         "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_B2.jpg",
         "cameraLook": "1.5/3.5",
-        "forward": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "down": [
-            {
-                "piece": 1,
-                "index": 0
-            }
-        ],
-        "left": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
-        "right": [
-            {
-                "piece": null,
-                "index": null
-            }
-        ],
         "tpSpatial": [
           {
             "pos_x": -3,
