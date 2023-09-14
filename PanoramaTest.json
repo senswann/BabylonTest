@@ -271,6 +271,36 @@
         "copyright": null,
         "size": null,
         "autoActivate": null
+      },
+      {
+        "isInfospot": true,
+        "type": "googleMap",
+        "piece": 0,
+        "position": 8,
+        "pos_x": 1,
+        "pos_y": 0,
+        "pos_z": 1,
+        "text": null,
+        "textInfo": null,
+        "link": "https://www.google.fr/maps/place/Basilique+Notre-Dame+de+la+Garde/@43.2799626,5.363724,13z/data=!4m6!3m5!1s0x12c9c0c976b89df5:0x89254f95b5ee2ded!8m2!3d43.2839533!4d5.3712377!16zL20vMDFfcThj?entry=ttu",
+        "copyright": null,
+        "size": 0.5,
+        "autoActivate": false
+      },
+      {
+        "isInfospot": true,
+        "type": "changePiece",
+        "piece": 0,
+        "position": 8,
+        "pos_x": 0,
+        "pos_y": 1,
+        "pos_z": -1,
+        "text": null,
+        "textInfo": null,
+        "link": "https://cdn.jsdelivr.net/gh/mourad-boussiouf/panolensjsLibraryTesting/images/visite001/IMG_A1.jpg",
+        "copyright": null,
+        "size": 0.5,
+        "autoActivate": false
       }
     ],
     "pieces": [
